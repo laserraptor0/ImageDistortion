@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using OpenCvSharp;
-using UnityEngine;
 
 /// <summary>
 /// Image distortion component. input camera matrix and dist coefficients 
